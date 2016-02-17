@@ -1,0 +1,6 @@
+Suffit de 
+
+git clone https://github.com/dmansour42/my42 && cd my42 && chmod +x start.sh && ./start
+
+config de base de bash
+config de base de vim
